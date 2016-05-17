@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/component",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "React components",
   "main": "dist/index",
   "scripts": {
