@@ -1,3 +1,3 @@
-### @ftbl/icons
+### @ftbl/component
 
-JSX SVG Icons
+React.js components
