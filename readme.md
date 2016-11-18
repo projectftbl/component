@@ -1,3 +1,3 @@
-### @ftbl/component
+### @recipher/component
 
 React.js components
