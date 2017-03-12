@@ -1,6 +1,6 @@
 {
   "name": "@recipher/component",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "React components",
   "main": "dist/index",
   "scripts": {
